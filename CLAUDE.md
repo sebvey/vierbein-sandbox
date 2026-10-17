@@ -28,4 +28,4 @@ English everywhere.
 
 ## Running things
 
-Nothing to run. The agent may push to this repository's `main`.
+Nothing to run. Pushing is the agent's here: after fast-forwarding `main`, push it. With the GitHub backend, the push is what closes the ticket (`Closes #<n>`).
