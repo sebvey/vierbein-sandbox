@@ -18,7 +18,7 @@ From vierbein, in `../vierbein/` next to this repository:
 @../vierbein/agreements/writing.md
 @../vierbein/agreements/boundaries.md
 
-Ticket backend: GitHub, Project 2 of `sebvey`:
+Ticket backend: GitHub, GitHub Project 2 of `sebvey`:
 
 @../vierbein/ticket-backends/github.md
 
